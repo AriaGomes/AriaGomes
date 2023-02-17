@@ -3,7 +3,7 @@
   <h3>Hi there &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> </h3>
 
 I'm Aria Gomes, a Junior Developer in Ottawa, Canada.
-I like to make various things on my off time. you will find them here 😄
+I like to make various things on my off time. you will find them here 😄 
 <br> </br>
 <div dir="auto" align="left" style="vertical-align: top">
 <h2>🔸Contact Me🔸</h2>
@@ -34,3 +34,5 @@ I like to make various things on my off time. you will find them here 😄
 </div>
   </div>
   </div>
+  <br> </br>
+<a href="https://www.buymeacoffee.com/ariagomes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
