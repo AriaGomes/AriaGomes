@@ -35,4 +35,4 @@ I like to make various things on my off time. you will find them here 😄
   </div>
   </div>
   <br> </br>
-<a href="https://www.buymeacoffee.com/ariagomes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
