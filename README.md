@@ -2,7 +2,7 @@
   <h2>About Me</h2>
   <h3>Hi there &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> </h3>
 
-I'm Aria Gomes, a Junior Developer in Ottawa, Canada.
+I'm Aria Gomes, a Full-Stack Developer from Ottawa, Canada.
 I like to make various things on my off time. you will find them here 😄 
 <br> </br>
 <div dir="auto" align="left" style="vertical-align: top">
