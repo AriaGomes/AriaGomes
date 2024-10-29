@@ -17,8 +17,6 @@ I like to make various things on my off time. you will find them here 😄
 
 <div dir="auto" align="left">
     <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=AriaGomes&include_all_commits=false&count_private=false&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="150"/>
-    &nbsp;&nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriaGomes&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"  height="150" alt="AriaGomes"/>
     <img src="https://tryhackme-badges.s3.amazonaws.com/figro.png" alt="TryHackMe Image Badge" />
 </div>
