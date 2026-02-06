@@ -8,9 +8,8 @@ I like to make various things on my off time. you will find them here 😄
 <div dir="auto" align="left" style="vertical-align: top">
 <h2>🔸Contact Me🔸</h2>
 
-💬 Ask me or connect with me on <b>Discord</b>, <b>LinkedIn</b> or <b>Mail</b>.
+💬 Ask me or connect with me on <b>LinkedIn</b> or <b>Mail</b>.
 
-![Discord](https://img.shields.io/badge/Figro%234064-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23fff.svg?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/aria-gomes/)
 [![Mail](https://img.shields.io/badge/Mail-2C2C2C?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ag@ariagomes.com)
 </div>
